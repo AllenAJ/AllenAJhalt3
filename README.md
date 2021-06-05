@@ -32,6 +32,10 @@
 
 ### Youtube videos
 <!-- YOUTUBE:START -->
+- [How To Build and Host a React/Gatsby Portfolio Website In 10 Minutes](https://www.youtube.com/watch?v=Fk2jIqeqjI8)
+- [How To Build and Host a React/Gatsby Blog Website In 10 Minutes](https://www.youtube.com/watch?v=VSCGzlvU7Ok)
+- [Talking to Jarvis -AI bot-](https://www.youtube.com/watch?v=OwzxMgkEWtU)
+- [Stick Run Console Hacking](https://www.youtube.com/watch?v=6_hydTBrOeQ)
 <!-- YOUTUBE:END -->
 
 ---
