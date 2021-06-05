@@ -27,6 +27,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EthIndia 2.0: My first Hackathon experience🙌](https://dev.to/allenaj/ethindia-2-0-my-first-hackathon-experience-34o0)
+- [Lets create our first HelloWorld dApp 🔥](https://dev.to/allenaj/lets-create-our-first-helloworld-dapp-f4n)
+- [EA’s Deprecated GAMES LIST](https://dev.to/allenaj/ea-s-deprecated-games-list-3mmb)
+- [1-based vs 0-based array indexing](https://dev.to/allenaj/1-based-vs-0-based-array-indexing-cmn)
+- [How I reverse engineered a $10M facebook canvas game](https://dev.to/allenaj/how-i-reverse-engineered-a-10m-facebook-canvas-game-eek)
 <!-- BLOG-POST-LIST:END -->
 ---
 
