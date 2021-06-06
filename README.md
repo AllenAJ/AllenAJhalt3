@@ -37,6 +37,7 @@
 
 ### Youtube videos
 <!-- YOUTUBE:START -->
+- [How To Create An Amazing Profile ReadMe for GitHub (NEW) | SPOTIFY | Recent Blogs/Videos | Stats !](https://www.youtube.com/watch?v=ZTYPybjYqpo)
 - [How To Build and Host a React/Gatsby Portfolio Website In 10 Minutes](https://www.youtube.com/watch?v=Fk2jIqeqjI8)
 - [How To Build and Host a React/Gatsby Blog Website In 10 Minutes](https://www.youtube.com/watch?v=VSCGzlvU7Ok)
 - [Talking to Jarvis -AI bot-](https://www.youtube.com/watch?v=OwzxMgkEWtU)
